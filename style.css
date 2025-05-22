@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(255, 244, 199);
+    padding: 10px;
+}
+main{
+    color: rgb(168, 123, 123);
+    background-color: rgb(236, 255, 218);
+}
+main h1 {
+    text-align: center;
+}
+footer{
+    background-color: rgb(248, 238, 210);
+    padding: 10px;
+    color: chocolate;
+}
+nav {
+margin: 20px;
+padding: 10px;
+border: 2px solid rgb(158, 212, 182);
+}
+nav a {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(133, 189, 135);
+}
+p img {
+    background-color: rgb(240, 225, 165);
+    padding: 10px;
+}
+ h2 {
+color: rgb(132, 174, 109)
+}
+header{
+    color: rgb(146, 143, 96);
+}
+a {
+    color: rgb(158, 62, 62);
+}
